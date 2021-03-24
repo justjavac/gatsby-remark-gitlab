@@ -1,6 +1,6 @@
 # gatsby-remark-gitlab
 
-[![Build](https://github.com/justjavac/gatsby-remark-gitlab/workflows/main/badge.svg)](https://github.com/justjavac/gatsby-remark-gitlab/actions)
+[![ci](https://github.com/justjavac/gatsby-remark-gitlab/actions/workflows/ci.yml/badge.svg)](https://github.com/justjavac/gatsby-remark-gitlab/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/gatsby-remark-gitlab.svg?style=flat-square)](https://www.npmjs.com/package/gatsby-remark-github)
 
 This is a plugin for [`gatsby-transformer-remark`](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-remark), which is in turn a plugin for [GatsbyJS](https://www.gatsbyjs.org/).
