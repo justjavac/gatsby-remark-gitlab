@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-gitlab",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "remark plugin to autolink references like in GitLab issues, MRs, and comments",
   "main": "src/index.js",
   "author": "justjavac <justjavac@gmail.com>",
