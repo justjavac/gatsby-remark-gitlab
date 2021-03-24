@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hash 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "type": "inlineCode",
+              "value": "a5c3785",
+            },
+          ],
+          "title": null,
+          "type": "link",
+          "url": "https://gitlab.com/justjavac/gatsby-remark-gitlab/commit/a5c3785ed8d6a35868bc169f07e40e889087fd2e",
+        },
+      ],
+      "position": Position {
+        "end": Object {
+          "column": 41,
+          "line": 1,
+          "offset": 40,
+        },
+        "indent": Array [],
+        "start": Object {
+          "column": 1,
+          "line": 1,
+          "offset": 0,
+        },
+      },
+      "type": "paragraph",
+    },
+  ],
+  "position": Object {
+    "end": Object {
+      "column": 41,
+      "line": 1,
+      "offset": 40,
+    },
+    "start": Object {
+      "column": 1,
+      "line": 1,
+      "offset": 0,
+    },
+  },
+  "type": "root",
+}
+`;
+
+exports[`issues 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "children": Array [
+        Object {
+          "position": Position {
+            "end": Object {
+              "column": 4,
+              "line": 1,
+              "offset": 3,
+            },
+            "indent": Array [],
+            "start": Object {
+              "column": 2,
+              "line": 1,
+              "offset": 1,
+            },
+          },
+          "type": "text",
+          "value": "12",
+        },
+      ],
+      "depth": 1,
+      "position": Position {
+        "end": Object {
+          "column": 4,
+          "line": 1,
+          "offset": 3,
+        },
+        "indent": Array [],
+        "start": Object {
+          "column": 1,
+          "line": 1,
+          "offset": 0,
+        },
+      },
+      "type": "heading",
+    },
+  ],
+  "position": Object {
+    "end": Object {
+      "column": 4,
+      "line": 1,
+      "offset": 3,
+    },
+    "start": Object {
+      "column": 1,
+      "line": 1,
+      "offset": 0,
+    },
+  },
+  "type": "root",
+}
+`;
+
+exports[`mention 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "type": "text",
+                  "value": "@user",
+                },
+              ],
+              "type": "strong",
+            },
+          ],
+          "title": null,
+          "type": "link",
+          "url": "https://gitlab.com/user",
+        },
+      ],
+      "position": Position {
+        "end": Object {
+          "column": 6,
+          "line": 1,
+          "offset": 5,
+        },
+        "indent": Array [],
+        "start": Object {
+          "column": 1,
+          "line": 1,
+          "offset": 0,
+        },
+      },
+      "type": "paragraph",
+    },
+  ],
+  "position": Object {
+    "end": Object {
+      "column": 6,
+      "line": 1,
+      "offset": 5,
+    },
+    "start": Object {
+      "column": 1,
+      "line": 1,
+      "offset": 0,
+    },
+  },
+  "type": "root",
+}
+`;
